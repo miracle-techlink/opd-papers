@@ -2,3 +2,7 @@
 *.swp
 *.tmp
 *~
+
+# Local-only documents (not for public repo)
+docs/Flow-VLA-OPD-Paper-Proposal.*
+research/
